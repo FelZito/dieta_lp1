@@ -1,5 +1,5 @@
 # Programa de Dieta de Exercicíos em Java
-### Trabalho elaborado para a primeira nota na cade de Linguagem de Programação I com o professor Geraldo Braz na Universidade Federal do Maranhão.
+### Trabalho elaborado para a primeira nota na cadeira de Linguagem de Programação I com o professor Geraldo Braz na Universidade Federal do Maranhão.
 
 # Implementações obrigatórias:
 - [X] __Orientação a Objetos__
